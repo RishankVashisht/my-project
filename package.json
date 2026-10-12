@@ -1,0 +1,28 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A Simple REST API built with Node.js and Express",
+  "main": "myserver.js",
+  "scripts": {
+    "start": "node myserver.js",
+    "dev": "nodemon myserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishankVashisht/my-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RishankVashisht/my-project/issues"
+  },
+  "homepage": "https://github.com/RishankVashisht/my-project#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
